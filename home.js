@@ -33,7 +33,7 @@ if (!pw(form.password1.value)) {
 
 
     else {
-alert("please make sure that you have enter password and confirm passsword");
+alert("Password and confirm passsword are not identical");
 form.password1.focus();
         return false;
     }
