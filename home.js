@@ -37,7 +37,7 @@ alert("please make sure that you have enter password and confirm passsword");
 form.password1.focus();
         return false;
     }
-    return alert("Hello yor chose your right place");
+    return alert("Hello you chose your right place");
 
 
 
