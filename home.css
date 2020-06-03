@@ -1,0 +1,138 @@
+
+
+
+#buck h2{margin-bottom : 20px;}
+.run{width: 100%}
+.run img{width: 100% ;
+ border-radius:50%;
+box-shadow : 1 0 0px #99999;
+} 
+
+.contian.btn-primary{
+	border-radius:1.5rem;
+	border: none;
+	width :120 px;
+	background:#f8f8f8;
+	font-weight : 400;
+	margin-top :20px;
+    color: 	   #555;
+}
+
+#but{
+background: #000;
+padding :10px;
+border : 1px solid #CCC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#topic{
+	
+background: #000;
+padding :10px;
+border : 1px solid #CCC;
+font-family :Arial,tahoma;
+width : 600px;	
+border-radius:50%;
+}
+
+#topic1{
+	
+background: #000;
+padding :10px;
+border : 1px solid #CCC;
+font-family :Arial,tahoma;
+width : 200px;
+border-radius:50%;	
+}
+
+#but{
+background: #000;
+padding :10px;
+border : 1px solid #CCC;
+
+
+
+
+
+
+
+
+	
+}
+#image1{
+
+background-image: url(fff.jpg);
+
+width: 300px;
+height:168px;
+float: right;
+margin-left : 12px;
+border-radius:50%;
+box-shadow : 0 0 10px #999999;
+}
+#run
+{
+width: 100% ; 
+border-radius:50%;
+box-shadow : 0 0 10px #999999;
+}
+
+#but{
+background: #000;
+padding :10px;
+border : 1px solid #CCC;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#back{
+	float:right;
+	width: 300px;
+    height:168px;
+    border-radius:30%;
+}
+.form-control{
+background-color: black;
+}
+.inname{
+color: red;
+	
+}
+
+#load{
+float:right;
+width: 250px;
+height:300px;
+margin-left : 12px;
+box-shadow : 0 0 10px #999999;
+border-radius :50%;
+padding :10px;
+}
+
+
+#but{
+background: #000;
+padding :10px;
+border : 1px solid #CCC;
+	
+}
